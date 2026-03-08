@@ -1,0 +1,15 @@
+Easy|||Which keyword is used to declare a variable in JavaScript?|||var|||variable|||int|||string|||A
+Easy|||Which symbol is used for comments in JavaScript?|||#|||//|||<!--|||--->|||B
+Easy|||Which function prints output in console?|||print()|||console.log()|||echo()|||display()|||B
+Easy|||Which data type stores true or false?|||bool|||boolean|||int|||logic|||B
+Easy|||What will console.log(2+3) print?|||23|||5|||error|||2+3|||B
+Moderate|||Which operator checks value and type equality?|||==|||===|||!=|||!==|||B
+Moderate|||Which keyword defines a function?|||def|||function|||func|||method|||B
+Moderate|||Which method converts JSON to object?|||JSON.parse()|||JSON.convert()|||JSON.object()|||JSON.toObject()|||A
+Moderate|||Which loop iterates over arrays easily?|||for|||while|||forEach|||loop|||C
+Moderate|||What will typeof "Hello" return?|||string|||text|||char|||object|||A
+Hard|||What will console.log(typeof null) return?|||null|||object|||undefined|||error|||B
+Hard|||Which keyword creates block-scoped variable?|||var|||let|||define|||new|||B
+Hard|||Which method adds element to end of array?|||push()|||append()|||add()|||insert()|||A
+Hard|||What will [1,2,3].length return?|||1|||2|||3|||3|||D
+Hard|||Which function converts string to integer?|||parseInt()|||toInt()|||convertInt()|||stringInt()|||A

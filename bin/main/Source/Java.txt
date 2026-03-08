@@ -1,0 +1,15 @@
+Easy|||What is the size of int in Java?|||2 bytes|||4 bytes|||8 bytes|||Depends on system|||B
+Easy|||Which keyword is used to create an object in Java?|||class|||new|||create|||object|||B
+Easy|||Which method is the entry point of a Java program?|||start()|||run()|||main()|||init()|||C
+Easy|||What will System.out.println(2 + 3) print?|||23|||5|||Error|||2+3|||B
+Easy|||Which of these is a primitive data type in Java?|||String|||Array|||int|||Object|||C
+Moderate|||What will be the output? int x = 5; System.out.println(x++);|||5|||6|||Error|||4|||A
+Moderate|||What is the result of 10 % 3?|||3|||1|||0|||10|||B
+Moderate|||Which concept allows a class to inherit properties from another class?|||Encapsulation|||Inheritance|||Abstraction|||Polymorphism|||B
+Moderate|||What will be printed? int a = 10; int b = 20; System.out.println(a > b);|||true|||false|||10|||20|||B
+Moderate|||Which loop is guaranteed to execute at least once?|||for loop|||while loop|||do-while loop|||foreach loop|||C
+Hard|||What will be the output? int[] a = {1,2,3}; int[] b = a; b[1] = 5; System.out.println(a[1]);|||2|||3|||5|||Error|||C
+Hard|||What will be printed? String s1 = "Java"; String s2 = "Java"; System.out.println(s1 == s2);|||true|||false|||Error|||null|||A
+Hard|||What is the output? System.out.println(10 + 20 + "Java");|||30Java|||Java30|||1020Java|||Error|||A
+Hard|||Which feature allows the same method name with different parameters?|||Method overriding|||Method overloading|||Encapsulation|||Inheritance|||B
+Hard|||What will be the output? int x = 5; int y = ++x * 2; System.out.println(y);|||10|||12|||14|||Error|||B

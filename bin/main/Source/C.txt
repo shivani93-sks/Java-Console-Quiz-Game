@@ -1,0 +1,15 @@
+Easy|||Which symbol is used to end a statement in C?|||.|||;|||:|||!|||B
+Easy|||Which function is used to print output in C?|||print()|||printf()|||cout|||echo|||B
+Easy|||Which data type is used to store integers in C?|||int|||float|||char|||string|||A
+Easy|||Which header file is required for printf()?|||stdio.h|||stdlib.h|||string.h|||math.h|||A
+Easy|||Which operator is used for multiplication in C?|||*|||x|||%|||/|||A
+Moderate|||What will be the output? int x=5; printf("%d",x++);|||5|||6|||Error|||4|||A
+Moderate|||Which loop is guaranteed to run at least once?|||for|||while|||do-while|||foreach|||C
+Moderate|||Which symbol is used for address-of operator in C?|||*|||&|||%|||#|||B
+Moderate|||Which function is used to read input in C?|||input()|||scanf()|||read()|||cin|||B
+Moderate|||What is the size of char in C?|||1 byte|||2 bytes|||4 bytes|||Depends on system|||A
+Hard|||What will be the output? int a=10; int *p=&a; printf("%d",*p);|||10|||address|||error|||0|||A
+Hard|||Which concept allows accessing the same memory location with different data types?|||Structure|||Union|||Pointer|||Array|||B
+Hard|||What is the output? printf("%d",sizeof(int));|||1|||2|||4|||Depends on compiler|||D
+Hard|||Which function allocates memory dynamically?|||malloc()|||alloc()|||create()|||memory()|||A
+Hard|||Which operator is used to access structure members using pointer?|||.|||->|||*|||&|||B

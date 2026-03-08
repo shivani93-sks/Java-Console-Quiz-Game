@@ -1,0 +1,15 @@
+Easy|||Which keyword is used to define a function in Python?|||function|||define|||def|||fun|||C
+Easy|||Which data type stores text in Python?|||int|||string|||list|||char|||B
+Easy|||Which symbol is used for comments in Python?|||//|||#|||/* */|||--|||B
+Easy|||What will print(2+3) output?|||23|||5|||error|||2+3|||B
+Easy|||Which data type stores multiple values?|||int|||string|||list|||float|||C
+Moderate|||What will be the output? print(type(5))|||int|||class 'int'|||integer|||number|||B
+Moderate|||Which keyword is used for loops in Python?|||repeat|||for|||loop|||iterate|||B
+Moderate|||Which function gives the length of a list?|||length()|||size()|||len()|||count()|||C
+Moderate|||Which operator is used for exponentiation?|||^|||**|||%|||//|||B
+Moderate|||What is the output? print(10//3)|||3|||3.3|||4|||Error|||A
+Hard|||What will be the output? a=[1,2,3]; print(a[1])|||1|||2|||3|||error|||B
+Hard|||Which data structure uses key-value pairs?|||list|||tuple|||dictionary|||set|||C
+Hard|||What will be the output? print(bool(""))|||True|||False|||0|||error|||B
+Hard|||Which keyword handles exceptions?|||catch|||try|||error|||handle|||B
+Hard|||Which function converts string to integer?|||str()|||int()|||float()|||num()|||B
