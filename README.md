@@ -97,6 +97,6 @@ Final Score: 4/5
 
 ## 👩‍💻 Author
 
-**Shivani Shroff**
+**Shivani Kumari Shroff**
 
 Java Developer | Learning Data Structures & Object-Oriented Programming
